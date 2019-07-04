@@ -1,0 +1,22 @@
+SMAP
+add_jsp.java
+JSP
+*S JSP
+*F
++ 0 add.jsp
+funcionario/cliente/add.jsp
++ 1 cabecalho.jsp
+funcionario/cliente/../cabecalho.jsp
++ 2 rodape.jsp
+funcionario/cliente/../rodape.jsp
+*L
+1:60
+1#1,218:61
+2#0,89:279
+90:430,8
+91:438
+92:439,3
+93,5:442
+97,6:370
+1#2,37:375
+*E
