@@ -1,2 +1,6 @@
 # Sistema de Controle de Vendas 
-Sistema para auxiliar no controle de vendas e no gerenciamento do estoque de uma loja de roupas.
+Nome: Willisan Coelho Muria
+Resumo: Sistema desenvolvido em java web para auxiliar no controle de vendas de uma loja de roupas.
+Tecnologias: NetBeans e pgAdmin
+
+
